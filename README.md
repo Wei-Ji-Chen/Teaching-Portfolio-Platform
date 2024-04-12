@@ -1,3 +1,4 @@
 # Teaching-Portfolio-Platform
 
-[![Watch the Video](https://www.youtube.com/watch?v=GOhbJWdmr9c)
+[Watch the video](https://www.youtube.com/watch?v=GOhbJWdmr9c)
+
