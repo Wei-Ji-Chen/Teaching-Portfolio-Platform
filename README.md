@@ -1,7 +1,9 @@
 # Teaching-Portfolio-Platform
 
-[Week 3 - Show What You Know: Write and Explain A Program - Nested Loops - Rat Octagon](https://www.youtube.com/watch?v=JFs1cyTz-Rs)
+[Week 4 - Show What You Know: Write and Explain A Program -  Variables - Triangle, Square, Pentagon](https://www.youtube.com/watch?v=a8b6DnYxbAw)
 
+
+[Week 3 - Show What You Know: Write and Explain A Program - Nested Loops - Rat Octagon](https://www.youtube.com/watch?v=JFs1cyTz-Rs)
 
 
 [Week 3 - Show What You Know: Write and Explain A Program - Events - Monkey Banana](https://www.youtube.com/watch?v=kl4pfkH419g)
