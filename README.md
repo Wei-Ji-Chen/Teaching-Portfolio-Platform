@@ -1,5 +1,10 @@
 # Teaching-Portfolio-Platform
 
+
+[Week 5 - Show What You Know: Write and Explain A Program - Conditional Loops](https://www.youtube.com/watch?v=_FiUAZkRTJ8)
+
+
+
 [Week 4 - Show What You Know: Write and Explain A Program -  Variables - Triangle, Square, Pentagon](https://www.youtube.com/watch?v=a8b6DnYxbAw)
 
 
