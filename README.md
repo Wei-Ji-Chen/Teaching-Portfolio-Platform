@@ -1,4 +1,6 @@
 # Teaching-Portfolio-Platform
+[Week 6 - Show What You Know: Write and Explain A Program - Penguin](https://www.youtube.com/watch?v=xPJ8m0blMdU)
+
 
 [Week 6 - Show What You Know: Write and Explain A Program - ball game](https://www.youtube.com/watch?v=wyTtqDIBMB4)
 
