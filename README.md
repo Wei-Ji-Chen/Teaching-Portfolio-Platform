@@ -1,4 +1,7 @@
 # Teaching-Portfolio-Platform
+
+[Week 8- Show What You Know: Write and Explain A Program - Treasure](https://www.youtube.com/watch?v=J3SvfCzy48A)
+
 [Week 7- Show What You Know: Write and Explain A Program - Penguin](https://www.youtube.com/watch?v=xPJ8m0blMdU)
 
 
