@@ -1,5 +1,7 @@
 # Teaching-Portfolio-Platform
 
+[Week 10 - Show What You Know: Write and Explain A Program - Country](https://www.youtube.com/watch?v=1CcoB5dirf0)
+
 [Week 9 - Show What You Know: Write and Explain A Program - Paint Picture](https://www.youtube.com/watch?v=8TJtu8kVEoc)
 
 
